@@ -80,3 +80,6 @@ function App() {
 - JSXとstateの連動
 - イベントハンドリング（クリック、入力など）との組み合わせ
 
+## 学習ノート一覧
+
+- [STEP 1: JSXと関数コンポーネント](./notes/step1-react-notes.md)
